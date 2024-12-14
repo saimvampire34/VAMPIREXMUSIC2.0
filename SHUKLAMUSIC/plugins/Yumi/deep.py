@@ -22,7 +22,7 @@ rel = {}
 
 
 @app.on_message(
-    filters.command("starts")
+    filters.command("babu")
     & filters.private
     & filters.user(6919199044)
 )

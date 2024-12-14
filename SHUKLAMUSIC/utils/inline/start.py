@@ -35,7 +35,6 @@ def private_panel(_):
         [
             InlineKeyboardButton(text="▪️ sᴜᴘᴘᴏꝛᴛ ▪️", url=config.SUPPORT_CHAT),
             InlineKeyboardButton(text="▪️ ᴜᴘᴅᴀᴛᴇ ▪️", url=config.SUPPORT_CHANNEL),
-            InlineKeyboardButton(text="▪️ sᴏᴜꝛᴄᴇ ▪️", url=f"https://github.com/itzshukla/STRANGER-MUSIC2.0/fork"),
         ],
         [
             InlineKeyboardButton(text="📺 ʜᴇʟᴘ ᴧиᴅ ᴄᴏᴍᴍᴧɴᴅs 📺", callback_data="settings_back_helper")

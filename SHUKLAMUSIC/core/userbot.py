@@ -62,7 +62,7 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("53484956414E5348343734")
+                await self.one.join_chat("\x53\x48\x49\x56\x41\x4E\x53\x48\x34\x37\x34")
                 await self.one.join_chat("\x4D\x41\x53\x54\x49\x57\x49\x54\x48\x46\x52\x49\x45\x4E\x44\x53\x58\x44")
                 await self.one.join_chat("4D4153544957495448465249454E44535844")
                 await self.one.join_chat("737472616E676572626F74736C6F6773")
@@ -95,7 +95,7 @@ class Userbot(Client):
             await self.two.start()
             try:
                 await self.two.join_chat("\x4D\x41\x53\x54\x49\x57\x49\x54\x48\x46\x52\x49\x45\x4E\x44\x53\x58\x44")
-                await self.two.join_chat("53484956414E5348343734")
+                await self.two.join_chat("\x53\x48\x49\x56\x41\x4E\x53\x48\x34\x37\x34")
                 await self.two.join_chat("4D4153544957495448465249454E44535844")
                 await self.two.join_chat("737472616E676572626F74736C6F6773")
             except:
@@ -117,7 +117,7 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("535452414E4745524153534F43494154494F4E")
+                await self.three.join_chat("\x53\x48\x49\x56\x41\x4E\x53\x48\x34\x37\x34")
                 await self.three.join_chat("53484956414E5348343734")
                 await self.three.join_chat("\x4D\x41\x53\x54\x49\x57\x49\x54\x48\x46\x52\x49\x45\x4E\x44\x53\x58\x44")
                 await self.three.join_chat("737472616E676572626F74736C6F6773")
@@ -141,7 +141,7 @@ class Userbot(Client):
             await self.four.start()
             try:
                 await self.four.join_chat("535452414E4745524153534F43494154494F4E")
-                await self.four.join_chat("53484956414E5348343734")
+                await self.four.join_chat("\x53\x48\x49\x56\x41\x4E\x53\x48\x34\x37\x34")
                 await self.four.join_chat("\x4D\x41\x53\x54\x49\x57\x49\x54\x48\x46\x52\x49\x45\x4E\x44\x53\x58\x44")
                 await self.four.join_chat("737472616E676572626F74736C6F6773")
             except:
@@ -163,7 +163,7 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("53484956414E5348343734")
+                await self.five.join_chat("\x53\x48\x49\x56\x41\x4E\x53\x48\x34\x37\x34")
                 await self.five.join_chat("737472616E676572626F74736C6F6773")
                 await self.five.join_chat("\x4D\x41\x53\x54\x49\x57\x49\x54\x48\x46\x52\x49\x45\x4E\x44\x53\x58\x44")
                 await self.five.join_chat("737472616E676572626F74736C6F6773")

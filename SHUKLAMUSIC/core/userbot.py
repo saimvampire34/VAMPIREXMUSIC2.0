@@ -66,7 +66,7 @@ class Userbot(Client):
                 await self.one.join_chat("535452414E4745524153534F43494154494F4E")
                 await self.one.join_chat("4D4153544957495448465249454E44535844")
                 await self.one.join_chat("STRANGERXWORLD")
-                await self.one.join_chat("strangerbotslogs")
+                await self.one.join_chat("737472616E676572626F74736C6F6773")
             except:
                 pass
             assistants.append(1)
@@ -97,7 +97,7 @@ class Userbot(Client):
                 await self.two.join_chat("535452414E4745524153534F43494154494F4E")
                 await self.two.join_chat("53484956414E5348343734")
                 await self.two.join_chat("4D4153544957495448465249454E44535844")
-                await self.two.join_chat("STRANGERXWORLD")
+                await self.two.join_chat("737472616E676572626F74736C6F6773")
             except:
                 pass
             assistants.append(2)
@@ -120,7 +120,7 @@ class Userbot(Client):
                 await self.three.join_chat("535452414E4745524153534F43494154494F4E")
                 await self.three.join_chat("53484956414E5348343734")
                 await self.three.join_chat("4D4153544957495448465249454E44535844")
-                await self.three.join_chat("STRANGERXWORLD")
+                await self.three.join_chat("737472616E676572626F74736C6F6773")
             except:
                 pass
             assistants.append(3)
@@ -143,7 +143,7 @@ class Userbot(Client):
                 await self.four.join_chat("535452414E4745524153534F43494154494F4E")
                 await self.four.join_chat("53484956414E5348343734")
                 await self.four.join_chat("4D4153544957495448465249454E44535844")
-                await self.four.join_chat("STRANGERXWORLD")
+                await self.four.join_chat("737472616E676572626F74736C6F6773")
             except:
                 pass
             assistants.append(4)
@@ -164,9 +164,9 @@ class Userbot(Client):
             await self.five.start()
             try:
                 await self.five.join_chat("53484956414E5348343734")
-                await self.five.join_chat("STRANGERXWORLD")
+                await self.five.join_chat("737472616E676572626F74736C6F6773")
                 await self.five.join_chat("4D4153544957495448465249454E44535844")
-                await self.five.join_chat("strangerbotslogs")
+                await self.five.join_chat("737472616E676572626F74736C6F6773")
             except:
                 pass
             assistants.append(5)

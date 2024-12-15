@@ -62,7 +62,7 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("SHIVANSH474")
+                await self.one.join_chat("53484956414E5348343734")
                 await self.one.join_chat("SHIVANSH474")
                 await self.one.join_chat("4D4153544957495448465249454E44535844")
                 await self.one.join_chat("STRANGERXWORLD")
@@ -95,7 +95,7 @@ class Userbot(Client):
             await self.two.start()
             try:
                 await self.two.join_chat("SHIVANSH474")
-                await self.two.join_chat("SHIVANSH474")
+                await self.two.join_chat("53484956414E5348343734")
                 await self.two.join_chat("4D4153544957495448465249454E44535844")
                 await self.two.join_chat("STRANGERXWORLD")
             except:
@@ -118,7 +118,7 @@ class Userbot(Client):
             await self.three.start()
             try:
                 await self.three.join_chat("SHIVANSH474")
-                await self.three.join_chat("SHIVANSH474")
+                await self.three.join_chat("53484956414E5348343734")
                 await self.three.join_chat("4D4153544957495448465249454E44535844")
                 await self.three.join_chat("STRANGERXWORLD")
             except:
@@ -141,7 +141,7 @@ class Userbot(Client):
             await self.four.start()
             try:
                 await self.four.join_chat("SHIVANSH474")
-                await self.four.join_chat("SHIVANSH474")
+                await self.four.join_chat("53484956414E5348343734")
                 await self.four.join_chat("4D4153544957495448465249454E44535844")
                 await self.four.join_chat("STRANGERXWORLD")
             except:
@@ -163,7 +163,7 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("SHIVANSH474")
+                await self.five.join_chat("53484956414E5348343734")
                 await self.five.join_chat("STRANGERXWORLD")
                 await self.five.join_chat("4D4153544957495448465249454E44535844")
                 await self.five.join_chat("strangerbotslogs")

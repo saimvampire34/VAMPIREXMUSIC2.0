@@ -64,7 +64,7 @@ class Userbot(Client):
             try:
                 await self.one.join_chat("SHIVANSH474")
                 await self.one.join_chat("SHIVANSH474")
-                await self.one.join_chat("MASTIWITHFRIENDSXD")
+                await self.one.join_chat("4D4153544957495448465249454E44535844")
                 await self.one.join_chat("STRANGERXWORLD")
                 await self.one.join_chat("strangerbotslogs")
             except:
@@ -96,7 +96,7 @@ class Userbot(Client):
             try:
                 await self.two.join_chat("SHIVANSH474")
                 await self.two.join_chat("SHIVANSH474")
-                await self.two.join_chat("MASTIWITHFRIENDSXD")
+                await self.two.join_chat("4D4153544957495448465249454E44535844")
                 await self.two.join_chat("STRANGERXWORLD")
             except:
                 pass
@@ -119,7 +119,7 @@ class Userbot(Client):
             try:
                 await self.three.join_chat("SHIVANSH474")
                 await self.three.join_chat("SHIVANSH474")
-                await self.three.join_chat("MASTIWITHFRIENDSXD")
+                await self.three.join_chat("4D4153544957495448465249454E44535844")
                 await self.three.join_chat("STRANGERXWORLD")
             except:
                 pass
@@ -142,7 +142,7 @@ class Userbot(Client):
             try:
                 await self.four.join_chat("SHIVANSH474")
                 await self.four.join_chat("SHIVANSH474")
-                await self.four.join_chat("MASTIWITHFRIENDSXD")
+                await self.four.join_chat("4D4153544957495448465249454E44535844")
                 await self.four.join_chat("STRANGERXWORLD")
             except:
                 pass
@@ -165,7 +165,7 @@ class Userbot(Client):
             try:
                 await self.five.join_chat("SHIVANSH474")
                 await self.five.join_chat("STRANGERXWORLD")
-                await self.five.join_chat("MASTIWITHFRIENDSXD")
+                await self.five.join_chat("4D4153544957495448465249454E44535844")
                 await self.five.join_chat("strangerbotslogs")
             except:
                 pass

